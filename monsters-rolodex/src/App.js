@@ -18,7 +18,7 @@ class App extends Component {
           <p>Hi, i am {this.state.name} !</p>
           <button
             onClick={() => {
-              this.setState({ name: "Arushi" });
+              this.setState({ name: "Aru" });
             }}
           >
             Change Name
